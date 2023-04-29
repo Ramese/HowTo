@@ -7,7 +7,7 @@ Place your .editorconfig file to every solution. Based on this file your solutio
 
 ## Used rules
 
-indent_style = tab
+indent_style = tab  
 end_of_line = crlf
 
 ## Use

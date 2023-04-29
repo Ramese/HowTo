@@ -4,10 +4,10 @@ This repository contains only text (MD) files to keep my self and people who wan
 
 ## This file (README.md)
 
-You have to know this one. But if you know it skip it.
+You have to know this one.
 
 [Markdown](./Markdown)
 
 ## Project's repository structure:
 
-[https://github.com/Ramese/HowTo/StructureRepository](https://github.com/Ramese/HowTo/StructureRepository)
+[StructureRepository](StructureRepository)

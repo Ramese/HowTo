@@ -6,7 +6,7 @@ This repository contains only text (MD) files to keep my self and people who wan
 
 You have to know this one. But if you know it skip it.
 
-[Markdown](/Markdown)
+[Markdown](./Markdown)
 
 ## Project's repository structure:
 

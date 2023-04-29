@@ -16,3 +16,8 @@ Regular web project repository is suppose to use (only) one database. Using foll
 - Solution
     - C# and TS files
     - idealy one solution and multiple projects
+
+
+## Do not place to repository
+
+Big files (like DB backups). Binary files, artefacts, libraries. 

@@ -13,6 +13,10 @@ You have to know this one.
 
 [Recommended Tools](RecommendedTools)
 
+## Keeping format
+
+[Format](FormatProjectFiles)
+
 ## Project's repository structure:
 
 [StructureRepository](StructureRepository)

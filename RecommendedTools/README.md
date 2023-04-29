@@ -6,11 +6,13 @@ Feel free to search it by name for more fresh links.
 
 Version control system [git](https://git-scm.com).  
   
-How to learn: [https://git-scm.com/docs](https://git-scm.com/docs).  
+How to learn:  
+[https://git-scm.com/docs](https://git-scm.com/docs).  
 
 # GitExtensions
 
-Easy GUI for git: [https://github.com/gitextensions/gitextensions](https://github.com/gitextensions/gitextensions)
+Easy GUI for git:  
+[https://github.com/gitextensions/gitextensions](https://github.com/gitextensions/gitextensions)
 
 ![Git Extensions](git_extensions_screen.png)
 
@@ -31,10 +33,12 @@ Password keeping tool:
 
 # WCF Test Client
 
-To test WCF services:
+To test WCF services:  
+
 ![WCF Test Client](wcf_screen.png)
 
-After installing Visual Studio you can find it here:
+After installing Visual Studio you can find it here:  
+
 [https://learn.microsoft.com/en-us/dotnet/framework/wcf/wcf-test-client-wcftestclient-exe](https://learn.microsoft.com/en-us/dotnet/framework/wcf/wcf-test-client-wcftestclient-exe)
 
 (Currently I want to use OpenAPI with swagger files so WCF will probably depricate.)
@@ -45,7 +49,8 @@ After installing Visual Studio you can find it here:
 
 # Microsoft SQL Server Management Studio
 
-SSMS:
+SSMS:  
+
 [https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16)
 
 # Node.js

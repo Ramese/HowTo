@@ -8,6 +8,11 @@ You have to know this one.
 
 [Markdown](./Markdown)
 
+
+## Recommended tools
+
+[Recommended Tools](RecommendedTools)
+
 ## Project's repository structure:
 
 [StructureRepository](StructureRepository)

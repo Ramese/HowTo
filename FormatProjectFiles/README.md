@@ -24,3 +24,5 @@ It finds the rules and applies them itself. There may be a problem with VS, but 
 You can run manually using for example Angular CLI:  
 
 `ng lint`
+
+Doesn't work with .editconfig by default. It needs prettier plugin to be installed.

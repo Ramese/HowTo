@@ -7,8 +7,22 @@ Place your .editorconfig file to every solution. Based on this file your solutio
 
 ## Used rules
 
-indent_style = tab  
-end_of_line = crlf
+  root = true
+
+  [*]
+  charset = utf-8
+  indent_style = tab
+  indent_size = 2
+  tab_width = 2
+  end_of_line = crlf
+  insert_final_newline = true
+  trim_trailing_whitespace = true
+  
+  [*.yml]
+  indent_style = space
+  indent_size = 2
+  tab_width = 2
+  end_of_line = crlf
 
 ## Use
 
